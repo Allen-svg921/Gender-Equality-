@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gender Equality and VAWC</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        nav {
+            background: #f4f4f4;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #4CAF50;
+        }
+        .helplines {
+            background: #f9f9f9;
+            padding: 20px;
+            border: 1px solid #ddd;
+            margin: 20px 0;
+        }
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Gender Equality and VAWC</h1>
+        <p>Promoting gender equality and protecting women and children</p>
+    </header>
+    <nav>
+        <a href="#laws">Law Overview</a>
+        <a href="#cases">Case Scenarios</a>
+        <a href="#action">Call to Action</a>
+        <a href="#programs">National Programs</a>
+        <a href="#civil-society">Civil Society</a>
+    </nav>
+    <section id="laws">
+        <h2>Law Overview</h2>
+        <h3>1987 Constitution: Article 13, Section 14</h3>
+        <p><strong>Objective:</strong> Promote women's rights and equality in all aspects of life.</p>
+        <p><strong>Key Provisions:</strong> Recognizes the importance of women's participation in development.</p>
+        <p><strong>Importance:</strong> Establishes a foundation for gender-focused laws and programs.</p>
+        <!-- Add other laws here following the same format -->
+    </section>
+    <section id="cases">
+        <h2>Case Scenarios</h2>
+        <h3>Example: Application of RA 9262</h3>
+        <p><strong>Scenario:</strong> A woman reports domestic violence from her partner.</p>
+        <p><strong>Protection:</strong> Grants immediate protection orders, penalizes abusers, and provides victim services.</p>
+        <!-- Add more cases as needed -->
+    </section>
+    <section id="action">
+        <h2>Call to Action</h2>
+        <h3>Steps for Raising Awareness</h3>
+        <ul>
+            <li>Organize community seminars on gender-related laws.</li>
+            <li>Distribute brochures and digital resources.</li>
+            <li>Engage schools and universities in campaigns promoting gender equality.</li>
+        </ul>
+        <div class="helplines">
+            <h3>Helplines and Resources</h3>
+            <p><strong>Philippine National Police (PNP) Women and Children Protection Desk:</strong> 117</p>
+            <p><strong>Gabriela Women's Hotline:</strong> (02) 332-8763</p>
+            <p><strong>Department of Social Welfare and Development (DSWD):</strong> 931-8101</p>
+        </div>
+    </section>
+    <section id="programs">
+        <h2>National Programs</h2>
+        <h3>Philippine Plan for Gender Responsive Development (1995-2025)</h3>
+        <p><strong>Goal:</strong> Integrate gender equality into national policies.</p>
+        <h3>Gender and Development (GAD) Budget Framework</h3>
+        <p><strong>Objective:</strong> Allocate government funds to programs promoting women's rights.</p>
+        <!-- Add more programs here -->
+    </section>
+    <section id="civil-society">
+        <h2>Women's Involvement in Civil Society</h2>
+        <h3>PILIPINA</h3>
+        <p>Advocates for women's empowerment and political participation.</p>
+        <h3>GABRIELA</h3>
+        <p>Focuses on grassroots organizing for women’s rights.</p>
+        <!-- Add more organizations here -->
+    </section>
+    <footer>
+        <p>&copy; 2024 Gender Equality and VAWC. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
